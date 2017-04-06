@@ -1,0 +1,17 @@
+ALM - Test management tool
+ Released and cycles
+manage requirement
+Manage Test
+Manage Test Execution
+Manage Test Results
+Manage Defects
+Manage graphs and Reports
+
+Characteristics
+
+Test Management Tool
+Product of HPE
+OS Windows and Linux
+Intergration with other HPE Tools ( UFT,LR,PC)
+Tool can be customised
+Java
